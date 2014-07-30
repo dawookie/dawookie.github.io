@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+# pygments:         true
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Da Wookies Toybox
+tagline:          Random Stuph From Around the Net
+url:              http://dawookie.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Rik Schneider
+  url:            https://twitter.com/the_fuzzy_one
+  email:          wo0ki.qsl@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/dawookie/dawookie.github.io.git
