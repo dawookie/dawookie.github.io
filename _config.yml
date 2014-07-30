@@ -1,23 +1,24 @@
 # Dependencies
 markdown:         redcarpet
-# pygments:         true
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Da Wookies Toybox
-tagline:          Random Stuph From Around the Net
+title:            Da Wo0ki's Toybox
+tagline:          'Randome stuff from around the net'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://dawookie.github.io
-paginate:         1
-baseurl:          /
+
 author:
-  name:           Rik Schneider
+  name:           'Rik Schneider'
   url:            https://twitter.com/the_fuzzy_one
-  email:          wo0ki.qsl@gmail.com
+
+paginate:         5
 
 # Custom vars
-version:          1.0.0
+version:          2.0.0
+
 github:
-  repo:           https://github.com/dawookie/dawookie.github.io.git
+  repo:           https://github.com/dawookie/dawookie.github.io
