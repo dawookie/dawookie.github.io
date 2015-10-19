@@ -1,0 +1,13 @@
+# Site settings
+title: Da Wo0ki's 
+email: wo0ki@deranged.schneider.org
+description: > # this means to ignore newlines until "baseurl:"
+  Links for my journies across the web.  Warning, the topics may include 
+    Guns, Buddhism, Computer Operating Systems, Automation, Ham Radio, and Veterans.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dawookie.github.io/" # the base hostname & protocol for your site
+twitter_username: the_fuzzy_one
+github_username:  dawookie
+
+# Build settings
+markdown: kramdown
