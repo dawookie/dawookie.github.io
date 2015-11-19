@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "We need to welcome the Syrian refugees."
+date:   2015-11-19 15:00:00
+categories: Syria refugees 
+---
+Some of you are aware that I am not a fan of Obama, DHS, or the UN.  Right now, though I really have problems with the so called conservative side of the refugee argument. After last Friday, I understand the fear that many have about bringing in refugees from Syria. Politicians on both sides have a vested interest in fanning those fears.  After much reflection I realized we need to welcome the Syrian refugees with open arms and help them adjust. We need to relight the beacon of hope and follow through on the promise of America.
+
+To start, lets look at the basics.  We have accepted more than 780,000 refugees in the US since changing our process for vetting refugees post 9/11.  Only 3 of these refugees have been arrested for activities related to terrorism, none of those were close to an attack on the US.  Two of them were attempting to leave the US to join groups in other countries.  These men and women are checked by the UN before they are ever submitted to the US.  Because of the amount of work involved, any application that gets flagged for further review ends up being suspended, effectively stopping the application there.  Assuming they pass that screening, there is another screening done by US authorities.  The whole process can take over two years.  Those arriving here have to go through a much more complete vetting process than any person coming in on a student or visitor visa.
+
+There are significant differences between the refugees here and those in Europe. Most routes into Europe are overland and can be accomplished on foot.  They are at the border or in the country when they are asking for asylum.  They are sent to insular communities surrounded by those that refuse to help them assimilate.  They learn to return the lack of compassion with distrust of those outside their community.  This "Us vs Them" mentality on one side fans it on the other until there is no trust or common ground for either side.
+
+Politicians on all sides of the political spectrum are using the division and fear to gather more power for themselves.  Unfortunately we as a country have been all to willing to cede power to them out of fear.  We need to stop thinking that the government has any real interest in our individual safety or security.  We need to accept responsibility for ourselves and our safety.  Part of this is learning to separate the actual risks from inflammatory cow-pie.
+
+There have been about 20,000 applications for US refuge since the start of the civil war in Syria.  So far fewer than 2000 have been granted refuge.  There are more than 12 million displaced since the beginning of hostilities.  They need our compassion and support.  It is time we start living up to the promise of America.  Anything less forces us all, even the refugees, to become what we fear.
